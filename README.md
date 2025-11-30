@@ -10,7 +10,7 @@
 
 <br>
 
-<samp>Creator: <a href="https://github.com/fsoc-ghost-0x">C0deGhost</a> | Version: 1.6 | <a href="https://attack.mitre.org/techniques/T1611/">MITRE T1611</a></samp>
+<samp>Creator: <a href="https://github.com/fsoc-ghost-0x">C0deGhost</a> | Version: 2.5  | <a href="https://attack.mitre.org/techniques/T1611/">MITRE T1611</a></samp>
 
 </div>
 
