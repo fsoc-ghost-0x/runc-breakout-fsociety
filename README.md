@@ -150,8 +150,7 @@
   ### <samp>4. SUID Persistence</samp>
   <samp>Verification of the sticky bit set on <code>/bin/bash</code>, creating a permanent backdoor for local privilege escalation.</samp>
   <p align="center">
-    <img src="LINK_DE_TU_IMAGEN_4_SUID.png" alt="SUID Persistence" width="100%"/>
-        <img src="https://github.com/user-attachments/assets/69d4605c-2140-4df5-9779-fe59c6f25505" alt="Root Access" width="100%"/>
+    <img src="https://github.com/user-attachments/assets/69d4605c-2140-4df5-9779-fe59c6f25505" alt="SUID Persistence" width="100%"/>
   <samp>Evidence #2</samp>
     <img src="https://github.com/user-attachments/assets/442d1c14-a77f-4de4-a11a-9541e8ac6a6c" alt="Root Access" width="100%"/>
   </p>
