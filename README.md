@@ -122,9 +122,41 @@
 
 <br>
 
+## <samp>▌ <u>0x05_EXECUTION_&_EVIDENCES</u></samp>
+
+<details>
+  <summary><code>Click to expand Proof of Concept Gallery...</code></summary>
+
+  ### <samp>1. The Interface (UX/UI)</samp>
+  <samp>Advanced argument parsing with custom banners, visual feedback, and a clean help menu inspired by the Fsociety aesthetic.</samp>
+  <p align="center">
+    <img src="LINK_DE_TU_IMAGEN_1_HELP.png" alt="Fsociety Help Menu" width="100%"/>
+  </p>
+
+  ### <samp>2. Exploit Execution (Nuclear Mode)</samp>
+  <samp>The tool automates the "Jailbuilder" phase (resolving dependencies) and the "Nuclear Configuration" phase (stripping namespaces/capabilities) before delivering the payload.</samp>
+  <p align="center">
+    <img src="LINK_DE_TU_IMAGEN_2_EXECUTION.png" alt="Exploit Execution" width="100%"/>
+  </p>
+
+  ### <samp>3. Root Access Confirmed (Shadow PWNED)</samp>
+  <samp>Verification of the `shadow` overwrite attack. Successful authentication as <code>root</code> using the injected password.</samp>
+  <p align="center">
+    <img src="LINK_DE_TU_IMAGEN_3_ROOT_ACCESS.png" alt="Root Access" width="100%"/>
+  </p>
+
+  ### <samp>4. SUID Persistence</samp>
+  <samp>Verification of the sticky bit set on <code>/bin/bash</code>, creating a permanent backdoor for local privilege escalation.</samp>
+  <p align="center">
+    <img src="LINK_DE_TU_IMAGEN_4_SUID.png" alt="SUID Persistence" width="100%"/>
+  </p>
+
+</details>
+
+<br>
+
 ---
 
 <p align="center">
   <samp><strong><font color="#ff4500">WE ARE FSOCIETY. WE ARE FINALLY FREE. WE ARE FINALLY AWAKE.</font></strong></samp>
 </p>
-```
